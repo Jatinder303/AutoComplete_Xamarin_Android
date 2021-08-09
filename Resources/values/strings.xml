@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AutoComplete_Xamarin_Android</string>
+    <string name="action_settings">Settings</string>
+
+	<string-array name="weekdays_array">
+		<item>Sunday</item>
+		<item>Monday</item>
+		<item>Tuesday</item>
+		<item>Wednesday</item>
+		<item>Thursday</item>
+		<item>Friday</item>
+		<item>Saturday</item>
+	</string-array>
+</resources>
